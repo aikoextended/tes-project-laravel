@@ -10,3 +10,7 @@ Digunakan untuk menghubungkan halaman satu dengan yang lain dengan navbar.
 
 ### tes-project-laravel
 Web sederhana yang navbarnya berisi: Halaman Home, Blog, About, dan juga Contact.
+
+### Tampilan tes-project-laravel
+Tidak ada UI yang berbeda dari video tutorial Sandhika Galih eps 1-5
+<img src="https://github.com/user-attachments/assets/b37aa340-23ab-44d1-a444-1acea018c854.png" width=50% height=50%>
