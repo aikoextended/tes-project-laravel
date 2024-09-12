@@ -13,6 +13,4 @@ Web sederhana yang navbarnya berisi: Halaman Home, Blog, About, dan juga Contact
 
 ### Tampilan tes-project-laravel
 Tidak ada UI yang berbeda dari video tutorial Sandhika Galih eps 1-5
-<img src="https://github.com/user-attachments/assets/b37aa340-23ab-44d1-a444-1acea018c854.png" width=50% height=50%>
-
 ![Tampilan Project](https://github.com/user-attachments/assets/e899a4ec-103c-4253-bae0-df96e82cdf80)
