@@ -10,5 +10,6 @@ Update  untuk data, model, dan database migration | videos eps 6-9
 ![Screenshot 2024-09-26 143941](https://github.com/user-attachments/assets/7052abf8-b330-402f-affe-f2fe3fa0a464)
 
 Update untuk model factories, eloquent relationship, post category, dan database seeder | videos eps 10-13
+
 ![Screenshot 2024-10-03 145644](https://github.com/user-attachments/assets/c4373e79-5a68-440b-bf0c-50105b158fac)
 
